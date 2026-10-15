@@ -12,3 +12,8 @@ https://github.com/goodnight000/api-anything
 
 
 https://github.com/littledivy/mimic
+
+
+https://github.com/kyrolabs/awesome-agents
+
+https://github.com/kyrolabs/awesome-agents
