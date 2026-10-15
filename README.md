@@ -15,3 +15,6 @@ https://github.com/littledivy/mimic
 
 
 https://github.com/morluto/rea
+
+
+https://github.com/kyrolabs/awesome-agents
