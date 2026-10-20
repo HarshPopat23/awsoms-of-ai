@@ -18,3 +18,5 @@ https://github.com/morluto/rea
 
 
 https://github.com/kyrolabs/awesome-agents
+
+https://github.com/Jakeschincariol/arena-skill
