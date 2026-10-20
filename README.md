@@ -30,3 +30,5 @@ https://github.com/slavingia/skills
 scribie.com
 
 respondent
+
+https://github.com/Jakeschincariol/replica-skill
