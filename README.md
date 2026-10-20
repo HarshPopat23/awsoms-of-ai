@@ -22,3 +22,6 @@ https://github.com/kyrolabs/awesome-agents
 https://github.com/Jakeschincariol/arena-skill
 
 https://github.com/Twigpine/openclaude
+
+
+https://github.com/slavingia/skills
