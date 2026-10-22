@@ -32,3 +32,7 @@ scribie.com
 respondent
 
 https://github.com/Jakeschincariol/replica-skill
+
+https://github.com/Leonxlnx/unlazy
+
+https://github.com/addyosmani/agent-skills
